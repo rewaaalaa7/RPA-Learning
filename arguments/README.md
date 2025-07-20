@@ -1,4 +1,4 @@
-# UiPath Workflow: Summing Two Arguments
+# Summing Two Arguments
 
 This UiPath project demonstrates how to:
 
