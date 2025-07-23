@@ -1,0 +1,13 @@
+﻿{
+  "Name": "New Text Document.txt - Notepad",
+  "Type": "Screen",
+  "Id": "zeDz6lGXqE2hE_LPWg-00g",
+  "Reference": "Z47ZwzPdbkydoqMoL6F82w/zeDz6lGXqE2hE_LPWg-00g",
+  "ParentRef": "Z47ZwzPdbkydoqMoL6F82w/vcbGSKMnGkujGDmzJ6PLLA",
+  "Created": "2025-07-23T10:55:05.9212183Z",
+  "Updated": "2025-07-23T10:55:05.9212183Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

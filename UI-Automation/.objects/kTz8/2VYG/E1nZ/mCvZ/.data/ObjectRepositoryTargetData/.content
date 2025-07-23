@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0xV79bzUC0OwEiUiqBD3-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/search" CVScreenId="4d29921d-c48d-45bb-820d-d3772b74d379" CvElementArea="583, 732, 770, 66" CvType="InputBox" DesignTimeRectangle="601, 738, 690, 55" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='uaseabox' tag='INPUT' /&gt;" Guid="63fe2c1d-300a-406c-ae48-54f3b0162c7e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='google - Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4de2885a1019b64980b297ed2e4cc85a.png" xmlns="">0mv_agmZd2EmeNKvmshhnnw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

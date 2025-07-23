@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cQ2s8fwgakOJcmgDRfpKKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/videos/search" DesignTimeRectangle="115, 617, 398, 222" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='mc_vtvc_video_24' tag='IMG' type='' class='rms_img' aaname='The Habit of Flow: You’re Wired for Greatness | Deri LLEWELLYN-DAVIES | TEDxPromenade des Anglais' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="5878b37a-eb9b-4a0c-8ff8-65130b85e800" ScopeSelectorArgument="&lt;html app='msedge.exe' title='TED Talks Psychology - Search Videos' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="115, 855, 372, 44" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='mc_vtvc_video_24' tag='STRONG' type='' class='' aaname='The Habit of Flow: You’re Wired for Greatness | Deri LLEWELLYN-DAVIE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='The Habit of Flow: You’re Wired for Greatness | Deri LLEWELLYN-DAVIE' /&gt;" Guid="ed427169-db99-4d33-a9ac-c9b104103913" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="389f73f5d6db6339c37b96322ae02a50.png" xmlns="">0aBQX4wbwbkGS7rf3aeSRXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

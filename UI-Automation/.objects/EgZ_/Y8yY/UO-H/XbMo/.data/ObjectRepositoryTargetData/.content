@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DlwJnTiXskmZmpujLA2Iog" Reference="Z47ZwzPdbkydoqMoL6F82w/XbMoblYkoU25wmwpV1Xhfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" DesignTimeRectangle="646, 894, 314, 80" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='card-title activator' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="4fc21c0b-14d0-4ff8-858c-e6b6307b5d34" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b5a64fd1-f015-4659-9a44-81528b894d97" CvTextArea="532, 230, 91, 21" CvTextArgument="Avengers" CvType="Text" DesignTimeRectangle="535, 211, 685, 57" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="237a4a8b-be73-494a-a217-8a84a86b2160" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2186c054e044f6fae43ec301bb353e37.png" xmlns="">0vpPQW24UaEG7SWAxOz8ZlA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

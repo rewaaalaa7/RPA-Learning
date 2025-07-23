@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7Up4IO9_q0yG2QKp_DYZTg" Reference="Z47ZwzPdbkydoqMoL6F82w/KN4pHjWmEkizAaJ_v98SQQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/videos/search" DesignTimeRectangle="14, 446, 1891, 540" FullSelectorArgument="&lt;webctrl id='mmcar' tag='DIV' /&gt;" Guid="6ecebf04-daeb-4825-a5a2-92fa85c6c5d5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='tedx talks - Search Videos' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="aa3f8dc09b0d6d5f6864016025f331dc.png" xmlns="">0jfDy_hsXKkO5pzDNc22PQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

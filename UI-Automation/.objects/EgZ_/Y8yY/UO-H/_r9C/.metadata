@@ -1,0 +1,14 @@
+﻿{
+  "Name": "With the impending ice …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_r9C8Ay_3k2JE5Elpisnuw",
+  "Reference": "Z47ZwzPdbkydoqMoL6F82w/_r9C8Ay_3k2JE5Elpisnuw",
+  "ParentRef": "Z47ZwzPdbkydoqMoL6F82w/UO-HmzsFsEWJXf24QTqw9Q",
+  "Created": "2025-07-23T10:52:31.4115766Z",
+  "Updated": "2025-07-23T10:52:31.4115766Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

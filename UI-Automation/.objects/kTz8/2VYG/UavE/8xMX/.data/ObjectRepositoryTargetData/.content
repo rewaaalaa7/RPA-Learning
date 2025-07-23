@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4_JUUZEibk2XPtr97ysNeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/videos/search" CVScreenId="71ec6be8-debc-4e79-9595-59c22dadb746" CvElementArea="1739, 706, 32, 39" CvType="ArrowButton" DesignTimeRectangle="1725, 695, 60, 60" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='2' isleaf='1' tag='DIV' /&gt;" Guid="22f4ada4-3ed8-4092-91f6-2bf44b4916bf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='tedx talks - Search Videos' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c844835d19e5a9255e989fdea21db693.png" xmlns="">0FAs6sx4eXUGFYJgntAMWoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

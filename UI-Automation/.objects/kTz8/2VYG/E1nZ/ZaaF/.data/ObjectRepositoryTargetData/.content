@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c1ZcIM1-wkWP9HMCeNaPnw" Reference="Z47ZwzPdbkydoqMoL6F82w/ZaaFyItGIkW8icj8Qkac1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/search" CVScreenId="8cf9fea6-a750-489f-be8d-36b910e57410" CvTextArea="237, 477, 695, 28" CvTextArgument="Top 100 Greatest Movies of All Time (The Ultimate List) - IMDb" CvType="Text" DesignTimeRectangle="239, 476, 693, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Top 100 Greatest Movies of All Time (The Ultimate List) - IMDb' parentid='b_results' tag='A' /&gt;" Guid="079878f4-8329-448b-b0cc-3943b1967ea7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='top 100 movies list names - Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ea0cb9478b90789acf38f131b7fbd65f.png" xmlns="">0inD5SXuUQ02btIjJaz8_VQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

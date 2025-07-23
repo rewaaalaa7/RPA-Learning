@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jVCmjtWTXUyic0tL5z8XXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/videos/search" CVScreenId="907f4654-2ed0-48c9-9e6c-4fb0dcb4901a" CvElementArea="513, 496, 25, 30" CvTextArea="210, 497, 294, 25" CvTextArgument="TEDx Motivational Talks" CvType="ArrowButton" DesignTimeRectangle="212, 495, 323, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='mm_vdreco_TEDx Motivational Talks' tag='H2' /&gt;" Guid="654c88e0-6b68-4a1e-abac-549b37597c27" ScopeSelectorArgument="&lt;html app='msedge.exe' title='tedx talks - Search Videos' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="10c2da1736b5175cb48c48b33d89102f.png" xmlns="">0G58bSAOzq0Of8jtYIAJ_dg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

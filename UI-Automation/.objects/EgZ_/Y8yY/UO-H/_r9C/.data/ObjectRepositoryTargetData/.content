@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mZq4BrbdE0eeoWIgWJXelA" Reference="Z47ZwzPdbkydoqMoL6F82w/_r9C8Ay_3k2JE5Elpisnuw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" DesignTimeRectangle="632, 409, 342, 141" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="48121851-1ce0-4d19-a49c-f130ada8bde0" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="632, 300, 342, 90" FuzzySelectorArgument="&lt;webctrl type='' tag='SPAN' class='card-title grey-text text-darken-4' aaname='LEGO Marvel Avengers: Mission Demolition ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='LEGO Marvel Avengers: Mission Demolition&amp;#xA;close' /&gt;" Guid="d0462308-0065-4a0a-a71c-2641d21c8dd2" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="06306704ae5d445b29494c903ea55cf5.png" xmlns="">0-NatIjzGpkqHXQxR7X9LYg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zE8NlCoMdEmwK_EuN2pfjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/search" DesignTimeRectangle="559, 305, 67, 38" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='b-scopeListItem-video' tag='A' /&gt;" Guid="20dc91bf-2f2b-44c2-ba5f-ec6dad9a9928" ScopeSelectorArgument="&lt;html app='msedge.exe' title='tedx talks - Search' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c04868ccf561920738d62dfbc587483a.png" xmlns="">0i0XyQBoBrUmwYEnzQcQ_5g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

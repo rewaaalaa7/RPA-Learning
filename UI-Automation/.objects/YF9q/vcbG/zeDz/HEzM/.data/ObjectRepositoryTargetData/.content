@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="14alCGLHNUOODFODex5Gyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="403eb050-bdca-4b5c-8d23-39982902d2f7" CvTextArea="35, 103, 210, 13" CvTextArgument="Save As... Ctrl+Shift+S" CvType="Text" DesignTimeRectangle="3, 99, 263, 24" FullSelectorArgument="&lt;ctrl name='File' role='popup menu' /&gt;&lt;ctrl automationid='4' /&gt;" Guid="ffb2ed8c-7220-41cb-a916-aca85113b2f5" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32768' idx='*' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="46f2d7b0415166fa9fea7eff7508821b.png" xmlns="">0PlA-UD1WnE2nvjMdJR6wnw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge google - Search",
+  "Type": "Screen",
+  "Id": "E1nZ_0aPLk6RQMpx4RVyGA",
+  "Reference": "Z47ZwzPdbkydoqMoL6F82w/E1nZ_0aPLk6RQMpx4RVyGA",
+  "ParentRef": "Z47ZwzPdbkydoqMoL6F82w/2VYGS-hFlkWAMqajw8S9iQ",
+  "Created": "2025-07-22T20:25:00.2268287Z",
+  "Updated": "2025-07-22T20:25:00.2268287Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

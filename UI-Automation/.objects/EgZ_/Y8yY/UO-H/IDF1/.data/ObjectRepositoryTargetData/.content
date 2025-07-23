@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NM1fZVh7JEK-eM3p4MibNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" CVScreenId="788ab4dd-c0f7-4366-ad9e-b545691bd050" CvTextArea="645, 940, 113, 33" CvTextArgument="Ice Age" CvType="Text" DesignTimeRectangle="646, 934, 314, 40" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='SPAN' /&gt;" Guid="f1b1bdb9-7886-467e-b763-254099229828" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ab5747e9f33a491bd9423bd19cc3c14f.png" xmlns="">0YrFNAsS4-kmm6GFCzmA2cA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

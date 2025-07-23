@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="XEWpWInDOUKYpaGPqRFxVg" Reference="Z47ZwzPdbkydoqMoL6F82w/4d2rRa9B80K7veFi6JXMBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Edge" ContentHash="6Cr0AP5970yDJivFdPn_4Q" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAE1SURBVFhH7ZXrccMgEIRVAiW4FDcU5A6SDqwOlEIiUYLcgUux99AqgF5BmMkf883c2HN3HMvxUFUoFGJRF3NW+qdRur/DHrRB1V2L2Ilp+UFxpWpz9SZdt7q7Si6H5cFOrrvb6oTrNmQVsVj5R28wwXmaxP7X/XeQg07Ywa+C4qegsO6+GFogsSAXwhhKBwfOraw2Ld2b2O44EQ3d6aDI8FswYkXcjknAne50vGIPunaBABzYY2N28YtJcbp38cfQlQ6KuAfn+BYMdKeDIvLqjQVxwOje5Oih/ZPZimDmk6EFEgtycz3NKOa6IDa++3Y78KusyPD6RXUrGjuJfx2jbbtbh6GIsBNrNu9EThEChMjTLAfN74jclEa2wubMn+TcImIoIibmIuj+X5yI7U95ofDuVNUToEN3Uyyxs3sAAAAASUVORK5CYII=" Reference="Z47ZwzPdbkydoqMoL6F82w/4d2rRa9B80K7veFi6JXMBg" Selector="&lt;html app='msedge.exe' title='google - Search' /&gt;" Url="https://www.bing.com/search?q=google&amp;cvid=9d44c876748d469ba3643720a0dff1a1&amp;gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg8MgYIAhBFGEEyBggDEEUYQTIGCAQQRRg8MgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEHNzM2ajBqNKgCBrACAQ&amp;FORM=ANAB01&amp;PC=EDGEDB" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="a23b5dc703057702379ad9a449a40a6e.jpg" xmlns="">0eN8WGAayvkSZ0dqfYsqgWQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

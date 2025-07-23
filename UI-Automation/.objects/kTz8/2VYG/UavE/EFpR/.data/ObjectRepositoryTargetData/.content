@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ftqUDbdMzUu8O2WYUhUvtQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/videos/search" DesignTimeRectangle="14, 981, 1891, 2015" FullSelectorArgument="&lt;webctrl id='vsb_vid_cat' tag='DIV' /&gt;" Guid="3cbc00b6-51d8-490d-a513-69d78c3c60e8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='TED Talks Psychology - Search Videos' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f6fb069736d3b255f5c64dad6e00b1b9.png" xmlns="">0KrCleXIp2EmZyNUJa32N_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
